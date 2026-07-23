@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/jal-khunt/leet-code/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/jal-khunt/leet-code/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/jal-khunt/leet-code/tree/master/1331-rank-transform-of-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/jal-khunt/leet-code/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jal-khunt/leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jal-khunt/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jal-khunt/leet-code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/jal-khunt/leet-code/tree/master/1631-path-with-minimum-effort) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jal-khunt/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/jal-khunt/leet-code/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jal-khunt/leet-code/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/jal-khunt/leet-code/tree/master/1260-shift-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/jal-khunt/leet-code/tree/master/1631-path-with-minimum-effort) |
 ## Segment Tree
 |  |
 | ------- |
@@ -104,4 +107,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jal-khunt/leet-code/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/jal-khunt/leet-code/tree/master/1631-path-with-minimum-effort) |
+## Depth-First Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/jal-khunt/leet-code/tree/master/1631-path-with-minimum-effort) |
+## Union-Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/jal-khunt/leet-code/tree/master/1631-path-with-minimum-effort) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/jal-khunt/leet-code/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
