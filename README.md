@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/jal-khunt/leet-code/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/jal-khunt/leet-code/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/jal-khunt/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jal-khunt/leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -93,9 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/jal-khunt/leet-code/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/jal-khunt/leet-code/tree/master/1260-shift-2d-grid) |
 ## Segment Tree
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/jal-khunt/leet-code/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/jal-khunt/leet-code/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
