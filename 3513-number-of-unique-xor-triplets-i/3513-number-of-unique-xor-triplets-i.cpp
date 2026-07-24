@@ -5,11 +5,11 @@ public:
 
         if (n <= 2) return n;
 
-        int mask = 0;
-        for (int num : nums) {
-            mask |= num;
+        int mask = 1;
+        while(mask <= n){
+            mask *= 2;
         }
 
-        return mask + 1;
+        return mask;
     }
 };
