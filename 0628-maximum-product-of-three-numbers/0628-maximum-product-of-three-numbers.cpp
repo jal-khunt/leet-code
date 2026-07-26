@@ -1,21 +1,32 @@
 class Solution {
 public:
     int maximumProduct(vector<int>& nums) {
-        int max1 = -1001, max2 = max1, max3 = max1;
-        int min1 = 1001, min2 = min1;
+        int firstMax = -1001, secondMax = -1001, thirdMax = -1001;
+        int firstMin = 1001, secondMin = 1001;
 
         for(auto &num : nums){
-            int partial_max1 = max1, partial_max2 = max2, partial_min1 = min1;
+            if(num > firstMax){
+                thirdMax = secondMax;
+                secondMax = firstMax;
+                firstMax = num;
+            }
+            else if(num > secondMax){
+                thirdMax = secondMax;
+                secondMax = num;
+            }
+            else if(num > thirdMax){
+                thirdMax = num;
+            }
 
-            max1 = max(max1, num);
-            max2 = max(max2, min(partial_max1, num));
-            max3 = max(max3, min(partial_max2, num));
-
-
-            min1 = min(min1, num);
-            min2 = min(min2, max(partial_min1, num));
+            if(num < firstMin){
+                secondMin = firstMin;
+                firstMin = num;
+            }
+            else if(num < secondMin){
+                secondMin = num;
+            }
         }
 
-        return max(max1 * max2 * max3, min1 * min2 * max1);
+        return max(firstMax*secondMax * thirdMax, firstMin * secondMin * firstMax);
     }
 };
