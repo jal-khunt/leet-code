@@ -75,14 +75,12 @@ public:
 
             sort(mergeMailByParent[i].begin(), mergeMailByParent[i].end());
 
-            for(auto &mail : mergeMailByParent[i]){
-                tmp.push_back(mail);
-            }
+            tmp.insert(tmp.begin()+1,mergeMailByParent[i].begin(), mergeMailByParent[i].end());
 
             ans.push_back(tmp);
         }
 
-        sort(ans.begin(), ans.end());
+        // sort(ans.begin(), ans.end());
         return ans;
     }
 };
