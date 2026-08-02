@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/jal-khunt/leet-code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jal-khunt/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/jal-khunt/leet-code/tree/master/0721-accounts-merge) |
 | [0877-stone-game](https://github.com/jal-khunt/leet-code/tree/master/0877-stone-game) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jal-khunt/leet-code/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/jal-khunt/leet-code/tree/master/1260-shift-2d-grid) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/jal-khunt/leet-code/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/jal-khunt/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jal-khunt/leet-code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jal-khunt/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/jal-khunt/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/jal-khunt/leet-code/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/jal-khunt/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jal-khunt/leet-code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jal-khunt/leet-code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/jal-khunt/leet-code/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jal-khunt/leet-code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jal-khunt/leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jal-khunt/leet-code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/jal-khunt/leet-code/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/jal-khunt/leet-code/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jal-khunt/leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jal-khunt/leet-code/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -150,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/jal-khunt/leet-code/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/jal-khunt/leet-code/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jal-khunt/leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jal-khunt/leet-code/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -157,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/jal-khunt/leet-code/tree/master/0721-accounts-merge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jal-khunt/leet-code/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/jal-khunt/leet-code/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
