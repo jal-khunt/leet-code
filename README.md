@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/jal-khunt/leet-code/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/jal-khunt/leet-code/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/jal-khunt/leet-code/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/jal-khunt/leet-code/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jal-khunt/leet-code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/jal-khunt/leet-code/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jal-khunt/leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/jal-khunt/leet-code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jal-khunt/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/jal-khunt/leet-code/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/jal-khunt/leet-code/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jal-khunt/leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jal-khunt/leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jal-khunt/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/jal-khunt/leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/jal-khunt/leet-code/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jal-khunt/leet-code/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1406-stone-game-iii](https://github.com/jal-khunt/leet-code/tree/master/1406-stone-game-iii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jal-khunt/leet-code/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jal-khunt/leet-code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -210,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/jal-khunt/leet-code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jal-khunt/leet-code/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/jal-khunt/leet-code/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
