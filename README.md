@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/jal-khunt/leet-code/tree/master/0721-accounts-merge) |
 | [0877-stone-game](https://github.com/jal-khunt/leet-code/tree/master/0877-stone-game) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jal-khunt/leet-code/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1140-stone-game-ii](https://github.com/jal-khunt/leet-code/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/jal-khunt/leet-code/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/jal-khunt/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/jal-khunt/leet-code/tree/master/1406-stone-game-iii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/jal-khunt/leet-code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jal-khunt/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/jal-khunt/leet-code/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/jal-khunt/leet-code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jal-khunt/leet-code/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jal-khunt/leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jal-khunt/leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/jal-khunt/leet-code/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jal-khunt/leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/jal-khunt/leet-code/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/jal-khunt/leet-code/tree/master/1140-stone-game-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jal-khunt/leet-code/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/jal-khunt/leet-code/tree/master/1406-stone-game-iii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jal-khunt/leet-code/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/jal-khunt/leet-code/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jal-khunt/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
@@ -225,9 +229,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/jal-khunt/leet-code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/jal-khunt/leet-code/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/jal-khunt/leet-code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jal-khunt/leet-code/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jal-khunt/leet-code/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jal-khunt/leet-code/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/jal-khunt/leet-code/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
