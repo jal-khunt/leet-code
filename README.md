@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/jal-khunt/leet-code/tree/master/0063-unique-paths-ii) |
 | [0486-predict-the-winner](https://github.com/jal-khunt/leet-code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jal-khunt/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/jal-khunt/leet-code/tree/master/0721-accounts-merge) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jal-khunt/leet-code/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/jal-khunt/leet-code/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/jal-khunt/leet-code/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/jal-khunt/leet-code/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jal-khunt/leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/jal-khunt/leet-code/tree/master/0063-unique-paths-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jal-khunt/leet-code/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/jal-khunt/leet-code/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/jal-khunt/leet-code/tree/master/1631-path-with-minimum-effort) |
