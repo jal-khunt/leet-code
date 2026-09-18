@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/jal-khunt/leet-code/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jal-khunt/leet-code/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/jal-khunt/leet-code/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/jal-khunt/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jal-khunt/leet-code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/jal-khunt/leet-code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/jal-khunt/leet-code/tree/master/1140-stone-game-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/jal-khunt/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/jal-khunt/leet-code/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jal-khunt/leet-code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/jal-khunt/leet-code/tree/master/1927-sum-game) |
@@ -174,11 +176,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/jal-khunt/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jal-khunt/leet-code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/jal-khunt/leet-code/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/jal-khunt/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/jal-khunt/leet-code/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jal-khunt/leet-code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/jal-khunt/leet-code/tree/master/1386-cinema-seat-allocation) |
@@ -316,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/jal-khunt/leet-code/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/jal-khunt/leet-code/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
