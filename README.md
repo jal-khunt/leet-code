@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/jal-khunt/leet-code/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jal-khunt/leet-code/tree/master/0064-minimum-path-sum) |
+| [0455-assign-cookies](https://github.com/jal-khunt/leet-code/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/jal-khunt/leet-code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jal-khunt/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/jal-khunt/leet-code/tree/master/0721-accounts-merge) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/jal-khunt/leet-code/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jal-khunt/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/jal-khunt/leet-code/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/jal-khunt/leet-code/tree/master/1331-rank-transform-of-an-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/jal-khunt/leet-code/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jal-khunt/leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/jal-khunt/leet-code/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jal-khunt/leet-code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/jal-khunt/leet-code/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/jal-khunt/leet-code/tree/master/1927-sum-game) |
@@ -306,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/jal-khunt/leet-code/tree/master/2029-stone-game-ix) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/jal-khunt/leet-code/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
