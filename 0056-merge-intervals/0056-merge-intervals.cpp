@@ -1,15 +1,12 @@
 class Solution {
 public:
-    static bool comp(vector<int> first, vector<int> second){
-        return first[0] < second[0];
-    }
 
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         vector<vector<int>> merged;
         int n = intervals.size();
 
 
-        sort(intervals.begin(), intervals.end(), comp);
+        sort(intervals.begin(), intervals.end());
         vector<int> tmp = intervals[0];
 
         for(auto it:intervals){
