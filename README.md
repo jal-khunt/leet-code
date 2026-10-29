@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jal-khunt/leet-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0135-candy](https://github.com/jal-khunt/leet-code/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jal-khunt/leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/jal-khunt/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/jal-khunt/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/jal-khunt/leet-code/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/jal-khunt/leet-code/tree/master/0486-predict-the-winner) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/jal-khunt/leet-code/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jal-khunt/leet-code/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/jal-khunt/leet-code/tree/master/0070-climbing-stairs) |
+| [0410-split-array-largest-sum](https://github.com/jal-khunt/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/jal-khunt/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/jal-khunt/leet-code/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/jal-khunt/leet-code/tree/master/0678-valid-parenthesis-string) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/jal-khunt/leet-code/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jal-khunt/leet-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jal-khunt/leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/jal-khunt/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/jal-khunt/leet-code/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jal-khunt/leet-code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/jal-khunt/leet-code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/jal-khunt/leet-code/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/jal-khunt/leet-code/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jal-khunt/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jal-khunt/leet-code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jal-khunt/leet-code/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/jal-khunt/leet-code/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/jal-khunt/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/jal-khunt/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/jal-khunt/leet-code/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/jal-khunt/leet-code/tree/master/0678-valid-parenthesis-string) |
