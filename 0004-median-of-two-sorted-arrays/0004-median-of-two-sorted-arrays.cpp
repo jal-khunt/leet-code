@@ -1,47 +1,47 @@
 class Solution {
 public:
-    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int n = nums1.size();
-        int m = nums2.size();
+    double findMedianSortedArrays(vector<int>& n1, vector<int>& n2) {
+        if(n1.size() > n2.size()){
+            return findMedianSortedArrays(n2, n1);
+        }
 
-        int current = 0, previous = 0;
+        int n = n1.size();
+        int m = n2.size();
 
-        int i = 0, j = 0;
+        if(n == 0){
 
-        int middle = (n+m) / 2;
-        // cout << middle << endl;
+        }
 
-        for(int count = 0; count <= middle; count++){
-            previous = current;
-            // cout << current << endl;
-            if(i < n && j < m){
-                if(nums1[i] <= nums2[j]){
-                    current = nums1[i];
-                    i++;
+        int leftSide = (n+m+1) / 2;
+
+        int low = 0, high = n;
+
+        while(low <= high){
+            int mid = (low+high)/2;
+            int mid2 = leftSide - mid;
+
+            int l1 = (mid == 0) ? INT_MIN : n1[mid-1];
+            int r1 = (mid == n) ? INT_MAX : n1[mid];
+
+            int l2 = (mid2 == 0) ? INT_MIN : n2[mid2-1];
+            int r2 = (mid2 == m) ? INT_MAX : n2[mid2];
+
+            if(l1 <= r2 && l2 <= r1){
+                if((n+m)%2 == 1){
+                    return max(l1,l2);
                 }
                 else{
-                    current = nums2[j];
-                    j++;
+                    return (double)(max(l1,l2)+min(r1,r2)) / 2.0;
                 }
             }
-            else if(i < n){
-                current = nums1[i];
-                i++;
+            else if(l1 > r2){
+                high = mid - 1;
             }
             else{
-                current = nums2[j];
-                j++;
+                low = mid + 1;
             }
         }
 
-        // cout << current << endl;
-
-
-        // cout << previous << current << endl;
-        if((n+m)%2 == 1)
-            return (double)current;
-        else{
-            return ((double)previous+(double)current)/2.0;
-        }
+        return 0.0;
     }
 };
