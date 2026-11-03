@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/jal-khunt/leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jal-khunt/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/jal-khunt/leet-code/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/jal-khunt/leet-code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jal-khunt/leet-code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jal-khunt/leet-code/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/jal-khunt/leet-code/tree/master/0063-unique-paths-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/jal-khunt/leet-code/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/jal-khunt/leet-code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jal-khunt/leet-code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jal-khunt/leet-code/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jal-khunt/leet-code/tree/master/0063-unique-paths-ii) |
@@ -387,5 +389,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jal-khunt/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/jal-khunt/leet-code/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jal-khunt/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
