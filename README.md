@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/jal-khunt/leet-code/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/jal-khunt/leet-code/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jal-khunt/leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0229-majority-element-ii](https://github.com/jal-khunt/leet-code/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jal-khunt/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/jal-khunt/leet-code/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/jal-khunt/leet-code/tree/master/0435-non-overlapping-intervals) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/jal-khunt/leet-code/tree/master/0229-majority-element-ii) |
 | [0721-accounts-merge](https://github.com/jal-khunt/leet-code/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/jal-khunt/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/jal-khunt/leet-code/tree/master/1386-cinema-seat-allocation) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/jal-khunt/leet-code/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/jal-khunt/leet-code/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/jal-khunt/leet-code/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/jal-khunt/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/jal-khunt/leet-code/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jal-khunt/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/jal-khunt/leet-code/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/jal-khunt/leet-code/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jal-khunt/leet-code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jal-khunt/leet-code/tree/master/3312-sorted-gcd-pair-queries) |
@@ -391,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jal-khunt/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/jal-khunt/leet-code/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jal-khunt/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/jal-khunt/leet-code/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
