@@ -13,6 +13,8 @@ public:
             }
             else{
                 ans.insert(nums[i]);
+
+                if(ans.size() == 2) break;
             }
         }
 
