@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jal-khunt/leet-code/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/jal-khunt/leet-code/tree/master/0229-majority-element-ii) |
 | [0721-accounts-merge](https://github.com/jal-khunt/leet-code/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/jal-khunt/leet-code/tree/master/1331-rank-transform-of-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jal-khunt/leet-code/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/jal-khunt/leet-code/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/jal-khunt/leet-code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jal-khunt/leet-code/tree/master/0070-climbing-stairs) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/jal-khunt/leet-code/tree/master/0013-roman-to-integer) |
 | [0678-valid-parenthesis-string](https://github.com/jal-khunt/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/jal-khunt/leet-code/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jal-khunt/leet-code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
